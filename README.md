@@ -2,7 +2,7 @@
 
 Infrastructure engineer focused on storage and high-performance networking.
 
-Home lab: Mellanox InfiniBand/RDMA + ZFS, fully Ansible-managed. 
+Home lab: Mellanox InfiniBand/RDMA + ZFS, fully Ansible-managed. <br>
 On the side: embedded/home automation and GPU-accelerated ML experiments.
 
 
