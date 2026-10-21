@@ -5,9 +5,6 @@ Infrastructure engineer focused on storage and high-performance networking.
 Home lab: Mellanox InfiniBand/RDMA + ZFS, fully Ansible-managed. <br>
 On the side: embedded/home automation and GPU-accelerated ML experiments.<br>
 
-🔍 Open to work
-
-
 <br>
 
 ### What's in my repos
@@ -16,6 +13,9 @@ On the side: embedded/home automation and GPU-accelerated ML experiments.<br>
 - **Hardware & systems** — [ibsend](https://github.com/HiroGitea/ibsend "Peer-to-peer file transfer over InfiniBand RDMA") · [ksystemstats-infiniband](https://github.com/HiroGitea/ksystemstats-infiniband "KDE System Monitor plugin for InfiniBand port counters") · [jetson-orin-crypto-zstd](https://github.com/HiroGitea/jetson-orin-crypto-zstd "Zstd Crypto API kernel module for Jetson Orin Nano") · [ttop](https://github.com/HiroGitea/ttop "Terminal monitor for Google Cloud TPU")
 - **Bio & data** — [protein-platform](https://github.com/HiroGitea/protein-platform "GenMol / MolMIM / DiffDock / MMseqs2 / AlphaFold 2 platform") · [cellarea](https://github.com/HiroGitea/cellarea "Segment cells and measure their areas") · [leafweave](https://github.com/HiroGitea/leafweave "Multispectral 3D plant reconstruction with Gaussian Splatting") · [rdstream](https://github.com/HiroGitea/rdstream "Streaming reader for R .rds / .RData files")
 - **Tools & media** — [s3-mcp-relay](https://github.com/HiroGitea/s3-mcp-relay "Operate isolated hosts through an S3 bucket, E2E-encrypted MCP relay") · [Rebottle](https://github.com/HiroGitea/Rebottle "Remux Dolby Vision Profile 5 MKV to MP4") · [moving_media](https://github.com/HiroGitea/moving_media "SD card backup with BLAKE3 verification") · [Finalshell_Decoder_rs](https://github.com/HiroGitea/Finalshell_Decoder_rs "FinalShell password decoder")
+<br>
+
+🔍 Open to work
 
 <br>
 
